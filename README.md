@@ -1,16 +1,25 @@
-## Hi there 👋
+# Harshad Valiya| harshadvaliya175@gmail.com | [LinkedIn](https://www.linkedin.com/in/harshad-valiya/) | [Github](https://github.com/Harshad-Valiya/Harshad-Valiya/edit/main/README.md) | Toronto, ON
 
-<!--
-**Harshad-Valiya/Harshad-Valiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Insights & Analytics student @Humber College  
+📍 Based in Toronto | Open to co-op roles in **Business Analytics, Data Analysis, or BI**  
+💼 Actively looking for opportunities where I can turn data into real and useful insights  
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills & Competencies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **Data Analysis & Visualization:**  
+  Python (Pandas, NumPy, Seaborn, Matplotlib), Power BI
+
+- 🧹 **Data Handling**:  
+  Data extraction, transformation, cleaning, feature selection, outlier handling
+
+- 📈 **Business & Statistical Tools**:  
+  Microsoft Excel (advanced), R, PowerPoint
+
+- 👨‍💻 **Development & Tools**:  
+  Visual Studio Code, Jupyter Notebook, Google Colab, Git/GitHub
+
+- 🧠 **Core Competencies**:  
+  Analytical thinking, problem-solving, stakeholder communication, research, reporting
+
+- 📚 **Domain Knowledge**:  
+  Business insights, client profiling, financial data interpretation, and market research
