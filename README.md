@@ -1,4 +1,5 @@
-# Harshad Valiya| harshadvaliya175@gmail.com | [LinkedIn](https://www.linkedin.com/in/harshad-valiya/) | [Github](https://github.com/Harshad-Valiya/Harshad-Valiya/edit/main/README.md) | Toronto, ON
+# Hi, I am Harshad Valiya 🙌
+## Data Analyst Professional | harshadvaliya175@gmail.com | [LinkedIn](https://www.linkedin.com/in/harshad-valiya/) | [Github](https://github.com/Harshad-Valiya/Harshad-Valiya/edit/main/README.md) | Toronto, ON
 
 🎓 Business Insights & Analytics student @Humber College  
 📍 Based in Toronto | Open to co-op roles in **Business Analytics, Data Analysis, or BI**  
